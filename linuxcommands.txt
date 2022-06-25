@@ -1,0 +1,5 @@
+tail = txt.dosyalarının bi kaç satırını gostermek için kullanılır
+cat = dosya acma ve  taşıma işlemlerini yapmak için kullanılır
+sudo = superuser yetkisini vermek için kullanılır
+touch = dosya oluşturmak için kullanılır
+mkdir = yeni bir dosya oluşturmak için kullanılır

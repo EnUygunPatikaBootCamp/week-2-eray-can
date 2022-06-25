@@ -1,0 +1,4 @@
+İsimlendirme küçük gibi görünen önemli kuraldır.O dilin isimlendirme kurallarına uymak önemlidir  bu yüzden belirli isimlendirme kuralları oluşturulmuştur.
+Pascal case ve camel case dünyada en çok kullanılan ve standart haline gelmiş adlandırma kurallarıdır.Aslında camel case ve pascal case birbirine benzerdir.
+Pascal case`de her sözcüğün başı büyük harfle başlar. Pascal case`e örnek vermek gerekirse, "CarModel","PhoneMemory" bu bir pascal case`dir, Camel case`de bu durum biraz daha farklıdır.
+Değişkenin ilk harfi küçük başlar ondan sonraki sözcük büyük harfle başlar. Kullanımı "carModel","phoneMemory" şeklindedir.
